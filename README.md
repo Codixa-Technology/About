@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="codixa.jpg" alt="Codixa Technologies Logo" width="220"/>
+<img src="https://instagram.fevn9-2.fna.fbcdn.net/v/t51.82787-19/640395929_18031465859604729_3952363458507103732_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fevn9-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gFSkpOkRsEJ-ozgpvn4RKSrw5jpFQPhKUjI63fXi7ocn12Ox8QxOvLi49XdIvo_SWI&_nc_ohc=I6bUfckF8RkQ7kNvwFigK4i&_nc_gid=HPe524qcEdltKfNqg5T09w&edm=AOii8G0BAAAA&ccb=7-5&oh=00_Af1OpHWee9MiHsuZw5sKMgPELVvIGUtZY6IvcB-eJ0uxhQ&oe=69D5561D&_nc_sid=f8e7cd" alt="Codixa Technologies Logo" width="220"/>
 
 # CODIXA Technologies
 
